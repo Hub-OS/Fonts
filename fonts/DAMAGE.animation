@@ -1,0 +1,38 @@
+animation state="DAMAGE_U+0030"
+frame x=17 y=1 w=7 h=11
+
+animation state="DAMAGE_U+0031"
+frame x=25 y=1 w=7 h=11
+
+animation state="DAMAGE_U+0032"
+frame x=32 y=1 w=7 h=11
+
+animation state="DAMAGE_U+0033"
+frame x=40 y=1 w=7 h=11
+
+animation state="DAMAGE_U+0034"
+frame x=48 y=1 w=7 h=11
+
+animation state="DAMAGE_U+0035"
+frame x=56 y=1 w=7 h=11
+
+animation state="DAMAGE_U+0036"
+frame x=64 y=1 w=7 h=11
+
+animation state="DAMAGE_U+0037"
+frame x=72 y=1 w=7 h=11
+
+animation state="DAMAGE_U+0038"
+frame x=80 y=1 w=7 h=11
+
+animation state="DAMAGE_U+0039"
+frame x=88 y=1 w=7 h=11
+
+animation state="DAMAGE_U+002B"
+frame x=9 y=1 w=7 h=11
+
+animation state="DAMAGE_U+002D"
+frame x=1 y=1 w=7 h=11
+
+animation state="DAMAGE_U+0041"
+frame x=96 y=1 w=7 h=11

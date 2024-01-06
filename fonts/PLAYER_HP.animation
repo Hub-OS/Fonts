@@ -1,0 +1,98 @@
+animation state="PLAYER_HP_U+0030"
+frame x=1 y=1 w=7 h=11
+
+animation state="PLAYER_HP_U+0031"
+frame x=9 y=1 w=7 h=11
+
+animation state="PLAYER_HP_U+0032"
+frame x=17 y=1 w=7 h=11
+
+animation state="PLAYER_HP_U+0033"
+frame x=25 y=1 w=7 h=11
+
+animation state="PLAYER_HP_U+0034"
+frame x=33 y=1 w=7 h=11
+
+animation state="PLAYER_HP_U+0035"
+frame x=41 y=1 w=7 h=11
+
+animation state="PLAYER_HP_U+0036"
+frame x=49 y=1 w=7 h=11
+
+animation state="PLAYER_HP_U+0037"
+frame x=57 y=1 w=7 h=11
+
+animation state="PLAYER_HP_U+0038"
+frame x=65 y=1 w=7 h=11
+
+animation state="PLAYER_HP_U+0039"
+frame x=73 y=1 w=7 h=11
+
+animation state="PLAYER_HP_U+0041"
+frame x=81 y=1 w=7 h=11
+
+animation state="PLAYER_HP_ORANGE_U+0030"
+frame x=1 y=13 w=7 h=11
+
+animation state="PLAYER_HP_ORANGE_U+0031"
+frame x=9 y=13 w=7 h=11
+
+animation state="PLAYER_HP_ORANGE_U+0032"
+frame x=17 y=13 w=7 h=11
+
+animation state="PLAYER_HP_ORANGE_U+0033"
+frame x=25 y=13 w=7 h=11
+
+animation state="PLAYER_HP_ORANGE_U+0034"
+frame x=33 y=13 w=7 h=11
+
+animation state="PLAYER_HP_ORANGE_U+0035"
+frame x=41 y=13 w=7 h=11
+
+animation state="PLAYER_HP_ORANGE_U+0036"
+frame x=49 y=13 w=7 h=11
+
+animation state="PLAYER_HP_ORANGE_U+0037"
+frame x=57 y=13 w=7 h=11
+
+animation state="PLAYER_HP_ORANGE_U+0038"
+frame x=65 y=13 w=7 h=11
+
+animation state="PLAYER_HP_ORANGE_U+0039"
+frame x=73 y=13 w=7 h=11
+
+animation state="PLAYER_HP_ORANGE_U+0041"
+frame x=81 y=13 w=7 h=11
+
+animation state="PLAYER_HP_GREEN_U+0030"
+frame x=1 y=25 w=7 h=11
+
+animation state="PLAYER_HP_GREEN_U+0031"
+frame x=9 y=25 w=7 h=11
+
+animation state="PLAYER_HP_GREEN_U+0032"
+frame x=17 y=25 w=7 h=11
+
+animation state="PLAYER_HP_GREEN_U+0033"
+frame x=25 y=25 w=7 h=11
+
+animation state="PLAYER_HP_GREEN_U+0034"
+frame x=33 y=25 w=7 h=11
+
+animation state="PLAYER_HP_GREEN_U+0035"
+frame x=41 y=25 w=7 h=11
+
+animation state="PLAYER_HP_GREEN_U+0036"
+frame x=49 y=25 w=7 h=11
+
+animation state="PLAYER_HP_GREEN_U+0037"
+frame x=57 y=25 w=7 h=11
+
+animation state="PLAYER_HP_GREEN_U+0038"
+frame x=65 y=25 w=7 h=11
+
+animation state="PLAYER_HP_GREEN_U+0039"
+frame x=73 y=25 w=7 h=11
+
+animation state="PLAYER_HP_GREEN_U+0041"
+frame x=81 y=25 w=7 h=11

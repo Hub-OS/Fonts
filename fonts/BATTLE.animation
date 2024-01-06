@@ -1,0 +1,119 @@
+animation state="BATTLE_U+0041"
+frame x=1 y=1 w=8 h=16
+
+animation state="BATTLE_U+0042"
+frame x=10 y=1 w=8 h=16
+
+animation state="BATTLE_U+0043"
+frame x=19 y=1 w=8 h=16
+
+animation state="BATTLE_U+0044"
+frame x=28 y=1 w=8 h=16
+
+animation state="BATTLE_U+0045"
+frame x=37 y=1 w=8 h=16
+
+animation state="BATTLE_U+0046"
+frame x=46 y=1 w=8 h=16
+
+animation state="BATTLE_U+0047"
+frame x=55 y=1 w=8 h=16
+
+animation state="BATTLE_U+0048"
+frame x=64 y=1 w=8 h=16
+
+animation state="BATTLE_U+0049"
+frame x=73 y=1 w=8 h=16
+
+animation state="BATTLE_U+004A"
+frame x=82 y=1 w=8 h=16
+
+animation state="BATTLE_U+004B"
+frame x=91 y=1 w=8 h=16
+
+animation state="BATTLE_U+004C"
+frame x=100 y=1 w=8 h=16
+
+animation state="BATTLE_U+004D"
+frame x=109 y=1 w=8 h=16
+
+animation state="BATTLE_U+004E"
+frame x=1 y=19 w=8 h=16
+
+animation state="BATTLE_U+004F"
+frame x=10 y=19 w=8 h=16
+
+animation state="BATTLE_U+0050"
+frame x=19 y=19 w=8 h=16
+
+animation state="BATTLE_U+0051"
+frame x=28 y=19 w=8 h=16
+
+animation state="BATTLE_U+0052"
+frame x=37 y=19 w=8 h=16
+
+animation state="BATTLE_U+0053"
+frame x=46 y=19 w=8 h=16
+
+animation state="BATTLE_U+0054"
+frame x=55 y=19 w=8 h=16
+
+animation state="BATTLE_U+0055"
+frame x=64 y=19 w=8 h=16
+
+animation state="BATTLE_U+0056"
+frame x=73 y=19 w=8 h=16
+
+animation state="BATTLE_U+0057"
+frame x=82 y=19 w=8 h=16
+
+animation state="BATTLE_U+0058"
+frame x=91 y=19 w=8 h=16
+
+animation state="BATTLE_U+0059"
+frame x=100 y=19 w=8 h=16
+
+animation state="BATTLE_U+005A"
+frame x=109 y=19 w=8 h=16
+
+animation state="BATTLE_U+005F"
+frame x=100 y=37 w=8 h=16
+
+animation state="BATTLE_U+003C"
+frame x=91 y=37 w=8 h=16
+
+animation state="BATTLE_U+003E"
+frame x=109 y=37 w=8 h=16
+
+animation state="BATTLE_U+0021"
+frame x=118 y=19 w=8 h=16
+
+animation state="BATTLE_U+0030"
+frame x=1 y=37 w=8 h=16
+
+animation state="BATTLE_U+0031"
+frame x=10 y=37 w=8 h=16
+
+animation state="BATTLE_U+0032"
+frame x=19 y=37 w=8 h=16
+
+animation state="BATTLE_U+0033"
+frame x=28 y=37 w=8 h=16
+
+animation state="BATTLE_U+0034"
+frame x=37 y=37 w=8 h=16
+
+animation state="BATTLE_U+0035"
+frame x=46 y=37 w=8 h=16
+
+animation state="BATTLE_U+0036"
+frame x=55 y=37 w=8 h=16
+
+animation state="BATTLE_U+0037"
+frame x=64 y=37 w=8 h=16
+
+animation state="BATTLE_U+0038"
+frame x=73 y=37 w=8 h=16
+
+animation state="BATTLE_U+0039"
+frame x=82 y=37 w=8 h=16

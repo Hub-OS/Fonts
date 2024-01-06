@@ -1,0 +1,113 @@
+animation state="MENU_TITLE_U+0041"
+frame x=1 y=1 w=7 h=7
+
+animation state="MENU_TITLE_U+0042"
+frame x=9 y=1 w=7 h=7
+
+animation state="MENU_TITLE_U+0043"
+frame x=17 y=1 w=7 h=7
+
+animation state="MENU_TITLE_U+0044"
+frame x=25 y=1 w=7 h=7
+
+animation state="MENU_TITLE_U+0045"
+frame x=33 y=1 w=7 h=7
+
+animation state="MENU_TITLE_U+0046"
+frame x=41 y=1 w=7 h=7
+
+animation state="MENU_TITLE_U+0047"
+frame x=49 y=1 w=7 h=7
+
+animation state="MENU_TITLE_U+0048"
+frame x=57 y=1 w=7 h=7
+
+animation state="MENU_TITLE_U+0049"
+frame x=65 y=1 w=7 h=7
+
+animation state="MENU_TITLE_U+004A"
+frame x=73 y=1 w=7 h=7
+
+animation state="MENU_TITLE_U+004B"
+frame x=81 y=1 w=7 h=7
+
+animation state="MENU_TITLE_U+004C"
+frame x=89 y=1 w=7 h=7
+
+animation state="MENU_TITLE_U+004D"
+frame x=97 y=1 w=7 h=7
+
+animation state="MENU_TITLE_U+004E"
+frame x=105 y=1 w=7 h=7
+
+animation state="MENU_TITLE_U+004F"
+frame x=113 y=1 w=7 h=7
+
+animation state="MENU_TITLE_U+0050"
+frame x=121 y=1 w=7 h=7
+
+animation state="MENU_TITLE_U+0051"
+frame x=129 y=1 w=7 h=7
+
+animation state="MENU_TITLE_U+0052"
+frame x=137 y=1 w=7 h=7
+
+animation state="MENU_TITLE_U+0053"
+frame x=145 y=1 w=7 h=7
+
+animation state="MENU_TITLE_U+0054"
+frame x=153 y=1 w=7 h=7
+
+animation state="MENU_TITLE_U+0055"
+frame x=161 y=1 w=7 h=7
+
+animation state="MENU_TITLE_U+0056"
+frame x=169 y=1 w=7 h=7
+
+animation state="MENU_TITLE_U+0057"
+frame x=177 y=1 w=7 h=7
+
+animation state="MENU_TITLE_U+0058"
+frame x=185 y=1 w=7 h=7
+
+animation state="MENU_TITLE_U+0059"
+frame x=193 y=1 w=7 h=7
+
+animation state="MENU_TITLE_U+005A"
+frame x=201 y=1 w=7 h=7
+
+animation state="MENU_TITLE_U+0030"
+frame x=1 y=9 w=7 h=7
+
+animation state="MENU_TITLE_U+0031"
+frame x=9 y=9 w=7 h=7
+
+animation state="MENU_TITLE_U+0032"
+frame x=17 y=9 w=7 h=7
+
+animation state="MENU_TITLE_U+0033"
+frame x=25 y=9 w=7 h=7
+
+animation state="MENU_TITLE_U+0034"
+frame x=33 y=9 w=7 h=7
+
+animation state="MENU_TITLE_U+0035"
+frame x=41 y=9 w=7 h=7
+
+animation state="MENU_TITLE_U+0036"
+frame x=49 y=9 w=7 h=7
+
+animation state="MENU_TITLE_U+0037"
+frame x=57 y=9 w=7 h=7
+
+animation state="MENU_TITLE_U+0038"
+frame x=65 y=9 w=7 h=7
+
+animation state="MENU_TITLE_U+0039"
+frame x=73 y=9 w=7 h=7
+
+animation state="MENU_TITLE_U+0021"
+frame x=1 y=17 w=7 h=7
+
+animation state="MENU_TITLE_U+003F"
+frame x=9 y=17 w=7 h=7

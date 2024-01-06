@@ -1,0 +1,281 @@
+animation state="THICK_U+0041"
+frame x=1 y=1 w=6 h=10
+
+animation state="THICK_U+0042"
+frame x=8 y=1 w=6 h=10
+
+animation state="THICK_U+0043"
+frame x=15 y=1 w=6 h=10
+
+animation state="THICK_U+0044"
+frame x=22 y=1 w=6 h=10
+
+animation state="THICK_U+0045"
+frame x=29 y=1 w=6 h=10
+
+animation state="THICK_U+0046"
+frame x=36 y=1 w=6 h=10
+
+animation state="THICK_U+0047"
+frame x=43 y=1 w=6 h=10
+
+animation state="THICK_U+0048"
+frame x=50 y=1 w=6 h=10
+
+animation state="THICK_U+0049"
+frame x=57 y=1 w=2 h=10
+
+animation state="THICK_U+004A"
+frame x=60 y=1 w=5 h=10
+
+animation state="THICK_U+004B"
+frame x=66 y=1 w=6 h=10
+
+animation state="THICK_U+004C"
+frame x=73 y=1 w=6 h=10
+
+animation state="THICK_U+004D"
+frame x=80 y=1 w=6 h=10
+
+animation state="THICK_U+004E"
+frame x=87 y=1 w=6 h=10
+
+animation state="THICK_U+004F"
+frame x=94 y=1 w=6 h=10
+
+animation state="THICK_U+0050"
+frame x=101 y=1 w=6 h=10
+
+animation state="THICK_U+0051"
+frame x=108 y=1 w=6 h=10
+
+animation state="THICK_U+0052"
+frame x=115 y=1 w=6 h=10
+
+animation state="THICK_U+0053"
+frame x=122 y=1 w=6 h=10
+
+animation state="THICK_U+0054"
+frame x=129 y=1 w=6 h=10
+
+animation state="THICK_U+0055"
+frame x=136 y=1 w=6 h=10
+
+animation state="THICK_U+0056"
+frame x=143 y=1 w=6 h=10
+
+animation state="THICK_U+0057"
+frame x=150 y=1 w=6 h=10
+
+animation state="THICK_U+0058"
+frame x=157 y=1 w=6 h=10
+
+animation state="THICK_U+0059"
+frame x=164 y=1 w=6 h=10
+
+animation state="THICK_U+005A"
+frame x=171 y=1 w=6 h=10
+
+animation state="THICK_U+0061"
+frame x=1 y=12 w=6 h=10
+
+animation state="THICK_U+0062"
+frame x=8 y=12 w=6 h=10
+
+animation state="THICK_U+0063"
+frame x=15 y=12 w=6 h=10
+
+animation state="THICK_U+0064"
+frame x=22 y=12 w=6 h=10
+
+animation state="THICK_U+0065"
+frame x=29 y=12 w=6 h=10
+
+animation state="THICK_U+0066"
+frame x=36 y=12 w=6 h=10
+
+animation state="THICK_U+0067"
+frame x=43 y=12 w=6 h=11
+
+animation state="THICK_U+0068"
+frame x=50 y=12 w=6 h=10
+
+animation state="THICK_U+0069"
+frame x=57 y=12 w=2 h=10
+
+animation state="THICK_U+006A"
+frame x=60 y=12 w=3 h=11
+
+animation state="THICK_U+006B"
+frame x=64 y=12 w=6 h=10
+
+animation state="THICK_U+006C"
+frame x=71 y=12 w=2 h=10
+
+animation state="THICK_U+006D"
+frame x=74 y=12 w=6 h=10
+
+animation state="THICK_U+006E"
+frame x=81 y=12 w=6 h=10
+
+animation state="THICK_U+006F"
+frame x=88 y=12 w=6 h=10
+
+animation state="THICK_U+0070"
+frame x=95 y=12 w=6 h=11
+
+animation state="THICK_U+0071"
+frame x=102 y=12 w=6 h=11
+
+animation state="THICK_U+0072"
+frame x=109 y=12 w=5 h=10
+
+animation state="THICK_U+0073"
+frame x=115 y=12 w=6 h=10
+
+animation state="THICK_U+0074"
+frame x=122 y=12 w=6 h=10
+
+animation state="THICK_U+0075"
+frame x=129 y=12 w=6 h=10
+
+animation state="THICK_U+0076"
+frame x=136 y=12 w=6 h=10
+
+animation state="THICK_U+0077"
+frame x=143 y=12 w=6 h=10
+
+animation state="THICK_U+0078"
+frame x=150 y=12 w=6 h=10
+
+animation state="THICK_U+0079"
+frame x=157 y=12 w=6 h=10
+
+animation state="THICK_U+007A"
+frame x=164 y=12 w=6 h=10
+
+animation state="THICK_U+0030"
+frame x=1 y=24 w=6 h=10
+
+animation state="THICK_U+0031"
+frame x=8 y=24 w=3 h=10
+
+animation state="THICK_U+0032"
+frame x=12 y=24 w=6 h=10
+
+animation state="THICK_U+0033"
+frame x=19 y=24 w=6 h=10
+
+animation state="THICK_U+0034"
+frame x=26 y=24 w=6 h=10
+
+animation state="THICK_U+0035"
+frame x=33 y=24 w=6 h=10
+
+animation state="THICK_U+0036"
+frame x=40 y=24 w=6 h=10
+
+animation state="THICK_U+0037"
+frame x=47 y=24 w=6 h=10
+
+animation state="THICK_U+0038"
+frame x=54 y=24 w=6 h=10
+
+animation state="THICK_U+0039"
+frame x=61 y=24 w=6 h=10
+
+animation state="THICK_U+0060"
+frame x=1 y=35 w=3 h=10
+
+animation state="THICK_U+007E"
+frame x=5 y=35 w=7 h=10
+
+animation state="THICK_U+0021"
+frame x=13 y=35 w=2 h=10
+
+animation state="THICK_U+0040"
+frame x=16 y=35 w=6 h=10
+
+animation state="THICK_U+0023"
+frame x=23 y=35 w=7 h=10
+
+animation state="THICK_U+0024"
+frame x=31 y=35 w=7 h=13
+
+animation state="THICK_U+0025"
+frame x=39 y=35 w=7 h=10
+
+animation state="THICK_U+005E"
+frame x=47 y=35 w=5 h=10
+
+animation state="THICK_U+0026"
+frame x=53 y=35 w=7 h=10
+
+animation state="THICK_U+002A"
+frame x=61 y=35 w=7 h=11
+
+animation state="THICK_U+0028"
+frame x=69 y=35 w=4 h=11
+
+animation state="THICK_U+0029"
+frame x=74 y=35 w=4 h=11
+
+animation state="THICK_U+002D"
+frame x=79 y=35 w=6 h=10
+
+animation state="THICK_U+005F"
+frame x=86 y=35 w=6 h=11
+
+animation state="THICK_U+003D"
+frame x=93 y=35 w=5 h=10
+
+animation state="THICK_U+002B"
+frame x=99 y=35 w=6 h=10
+
+animation state="THICK_U+005B"
+frame x=106 y=35 w=4 h=10
+
+animation state="THICK_U+007B"
+frame x=111 y=35 w=4 h=10
+
+animation state="THICK_U+005D"
+frame x=116 y=35 w=4 h=10
+
+animation state="THICK_U+007D"
+frame x=121 y=35 w=4 h=10
+
+animation state="THICK_U+005C"
+frame x=126 y=35 w=6 h=10
+
+animation state="THICK_U+007C"
+frame x=133 y=35 w=2 h=11
+
+animation state="THICK_U+003B"
+frame x=136 y=35 w=2 h=10
+
+animation state="THICK_U+003A"
+frame x=139 y=35 w=2 h=10
+
+animation state="THICK_U+0027"
+frame x=142 y=35 w=3 h=10
+
+animation state="THICK_U+0022"
+frame x=146 y=35 w=3 h=10
+
+animation state="THICK_U+002C"
+frame x=150 y=35 w=2 h=12
+
+animation state="THICK_U+003C"
+frame x=153 y=35 w=5 h=10
+
+animation state="THICK_U+002E"
+frame x=159 y=35 w=2 h=10
+
+animation state="THICK_U+003E"
+frame x=162 y=35 w=5 h=10
+
+animation state="THICK_U+002F"
+frame x=168 y=35 w=6 h=10
+
+animation state="THICK_U+003F"
+frame x=175 y=35 w=6 h=10
