@@ -36,3 +36,75 @@ frame x=91 y=1 w=8 h=10
 
 animation state="ENTITY_HP_U+003F"
 frame x=91 y=1 w=8 h=10
+
+animation state="ENTITY_HP_RED_U+0030"
+frame x=1 y=13 w=8 h=10
+
+animation state="ENTITY_HP_RED_U+0031"
+frame x=10 y=13 w=8 h=10
+
+animation state="ENTITY_HP_RED_U+0032"
+frame x=19 y=13 w=8 h=10
+
+animation state="ENTITY_HP_RED_U+0033"
+frame x=28 y=13 w=8 h=10
+
+animation state="ENTITY_HP_RED_U+0034"
+frame x=37 y=13 w=8 h=10
+
+animation state="ENTITY_HP_RED_U+0035"
+frame x=46 y=13 w=8 h=10
+
+animation state="ENTITY_HP_RED_U+0036"
+frame x=55 y=13 w=8 h=10
+
+animation state="ENTITY_HP_RED_U+0037"
+frame x=64 y=13 w=8 h=10
+
+animation state="ENTITY_HP_RED_U+0038"
+frame x=73 y=13 w=8 h=10
+
+animation state="ENTITY_HP_RED_U+0039"
+frame x=82 y=13 w=8 h=10
+
+animation state="ENTITY_HP_RED_U+0052"
+frame x=91 y=13 w=8 h=10
+
+animation state="ENTITY_HP_RED_U+0041"
+frame x=91 y=13 w=8 h=10
+
+animation state="ENTITY_HP_GREEN_U+0030"
+frame x=1 y=25 w=8 h=10
+
+animation state="ENTITY_HP_GREEN_U+0031"
+frame x=10 y=25 w=8 h=10
+
+animation state="ENTITY_HP_GREEN_U+0032"
+frame x=19 y=25 w=8 h=10
+
+animation state="ENTITY_HP_GREEN_U+0033"
+frame x=28 y=25 w=8 h=10
+
+animation state="ENTITY_HP_GREEN_U+0034"
+frame x=37 y=25 w=8 h=10
+
+animation state="ENTITY_HP_GREEN_U+0035"
+frame x=46 y=25 w=8 h=10
+
+animation state="ENTITY_HP_GREEN_U+0036"
+frame x=55 y=25 w=8 h=10
+
+animation state="ENTITY_HP_GREEN_U+0037"
+frame x=64 y=25 w=8 h=10
+
+animation state="ENTITY_HP_GREEN_U+0038"
+frame x=73 y=25 w=8 h=10
+
+animation state="ENTITY_HP_GREEN_U+0039"
+frame x=82 y=25 w=8 h=10
+
+animation state="ENTITY_HP_GREEN_U+0052"
+frame x=91 y=25 w=8 h=10
+
+animation state="ENTITY_HP_GREEN_U+0041"
+frame x=91 y=25 w=8 h=10
