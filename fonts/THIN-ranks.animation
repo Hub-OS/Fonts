@@ -1,0 +1,38 @@
+animation state="THIN_U+E000"
+frame x="1" y="1" w="6" h="11"
+
+animation state="THIN_U+E001"
+frame x="8" y="1" w="6" h="11"
+
+animation state="THIN_U+E002"
+frame x="15" y="1" w="6" h="11"
+
+animation state="THIN_U+E003"
+frame x="22" y="1" w="6" h="11"
+
+animation state="THIN_U+E004"
+frame x="29" y="1" w="6" h="11"
+
+animation state="THIN_U+E005"
+frame x="1" y="13" w="6" h="12"
+
+animation state="THIN_U+E006"
+frame x="8" y="13" w="6" h="12"
+
+animation state="THIN_U+E007"
+frame x="15" y="13" w="6" h="12"
+
+animation state="THIN_U+E008"
+frame x="22" y="13" w="6" h="12"
+
+animation state="THIN_U+03B1"
+frame x="1" y="26" w="6" h="11"
+
+animation state="THIN_U+03B2"
+frame x="8" y="26" w="6" h="11"
+
+animation state="THIN_U+03A3"
+frame x="22" y="26" w="6" h="11"
+
+animation state="THIN_U+03A9"
+frame x="15" y="26" w="6" h="11"
