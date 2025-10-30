@@ -13,16 +13,16 @@ frame x="22" y="1" w="6" h="11"
 animation state="THICK_U+E004"
 frame x="29" y="1" w="6" h="11"
 
-animation state="THICK_U+E005"
+animation state="THICK_U+E008"
 frame x="1" y="13" w="6" h="12"
 
-animation state="THICK_U+E006"
+animation state="THICK_U+E009"
 frame x="8" y="13" w="6" h="12"
 
-animation state="THICK_U+E007"
+animation state="THICK_U+E00a"
 frame x="15" y="13" w="6" h="12"
 
-animation state="THICK_U+E008"
+animation state="THICK_U+E00b"
 frame x="22" y="13" w="6" h="12"
 
 animation state="THICK_U+03B1"
