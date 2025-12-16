@@ -1,0 +1,26 @@
+animation state="THICK_U+3041"
+frame x=1 y=0 w=7 h=12 originy=1
+
+animation state="THICK_U+3043"
+frame x=9 y=0 w=7 h=12 originy=1
+
+animation state="THICK_U+3045"
+frame x=17 y=0 w=7 h=12 originy=1
+
+animation state="THICK_U+3047"
+frame x=25 y=0 w=7 h=12 originy=1
+
+animation state="THICK_U+3049"
+frame x=33 y=0 w=7 h=12 originy=1
+
+animation state="THICK_U+3063"
+frame x=1 y=12 w=7 h=12 originy=1
+
+animation state="THICK_U+3083"
+frame x=1 y=24 w=7 h=12 originy=1
+
+animation state="THICK_U+3085"
+frame x=9 y=24 w=7 h=12 originy=1
+
+animation state="THICK_U+3087"
+frame x=17 y=24 w=7 h=12 originy=1
