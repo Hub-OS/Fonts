@@ -210,3 +210,6 @@ frame x=9 y=168 w=7 h=12 originy=1
 
 animation state="THICK_U+30F4"
 frame x=17 y=168 w=7 h=12 originy=1
+
+animation state="THICK_U+30FC"
+frame x=25 y=168 w=7 h=12 originy=1
