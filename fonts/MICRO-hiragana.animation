@@ -1,0 +1,215 @@
+animation state="MICRO_U+3042"
+frame x=1 y=0 w=5 h=6 originy=1
+
+animation state="MICRO_U+3044"
+frame x=9 y=0 w=5 h=6 originy=1
+
+animation state="MICRO_U+3046"
+frame x=17 y=0 w=5 h=6 originy=1
+
+animation state="MICRO_U+3048"
+frame x=25 y=0 w=5 h=6 originy=1
+
+animation state="MICRO_U+304A"
+frame x=33 y=0 w=5 h=6 originy=1
+
+animation state="MICRO_U+304B"
+frame x=1 y=6 w=6 h=6 originy=1
+
+animation state="MICRO_U+304D"
+frame x=9 y=6 w=5 h=6 originy=1
+
+animation state="MICRO_U+304F"
+frame x=17 y=6 w=5 h=6 originy=1
+
+animation state="MICRO_U+3051"
+frame x=25 y=6 w=5 h=6 originy=1
+
+animation state="MICRO_U+3053"
+frame x=33 y=6 w=5 h=6 originy=1
+
+animation state="MICRO_U+304C"
+frame x=1 y=12 w=7 h=6 originy=1
+
+animation state="MICRO_U+304E"
+frame x=9 y=12 w=7 h=6 originy=1
+
+animation state="MICRO_U+3050"
+frame x=17 y=12 w=7 h=6 originy=1
+
+animation state="MICRO_U+3052"
+frame x=25 y=12 w=7 h=6 originy=1
+
+animation state="MICRO_U+3054"
+frame x=33 y=12 w=7 h=6 originy=1
+
+animation state="MICRO_U+3055"
+frame x=1 y=18 w=5 h=6 originy=1
+
+animation state="MICRO_U+3057"
+frame x=9 y=18 w=5 h=6 originy=1
+
+animation state="MICRO_U+3059"
+frame x=17 y=18 w=5 h=6 originy=1
+
+animation state="MICRO_U+305B"
+frame x=25 y=18 w=5 h=6 originy=1
+
+animation state="MICRO_U+305D"
+frame x=33 y=18 w=5 h=6 originy=1
+
+animation state="MICRO_U+3056"
+frame x=1 y=24 w=7 h=6 originy=1
+
+animation state="MICRO_U+3058"
+frame x=9 y=24 w=7 h=6 originy=1
+
+animation state="MICRO_U+305A"
+frame x=17 y=24 w=7 h=6 originy=1
+
+animation state="MICRO_U+305C"
+frame x=25 y=24 w=7 h=6 originy=1
+
+animation state="MICRO_U+305E"
+frame x=33 y=24 w=7 h=6 originy=1
+
+animation state="MICRO_U+305F"
+frame x=1 y=30 w=5 h=6 originy=1
+
+animation state="MICRO_U+3061"
+frame x=9 y=30 w=5 h=6 originy=1
+
+animation state="MICRO_U+3064"
+frame x=17 y=30 w=5 h=6 originy=1
+
+animation state="MICRO_U+3066"
+frame x=25 y=30 w=5 h=6 originy=1
+
+animation state="MICRO_U+3068"
+frame x=33 y=30 w=5 h=6 originy=1
+
+animation state="MICRO_U+3060"
+frame x=1 y=36 w=7 h=6 originy=1
+
+animation state="MICRO_U+3062"
+frame x=9 y=36 w=7 h=6 originy=1
+
+animation state="MICRO_U+3065"
+frame x=17 y=36 w=7 h=6 originy=1
+
+animation state="MICRO_U+3067"
+frame x=25 y=36 w=7 h=6 originy=1
+
+animation state="MICRO_U+3069"
+frame x=33 y=36 w=7 h=6 originy=1
+
+animation state="MICRO_U+306A"
+frame x=1 y=42 w=5 h=6 originy=1
+
+animation state="MICRO_U+306B"
+frame x=9 y=42 w=5 h=6 originy=1
+
+animation state="MICRO_U+306C"
+frame x=17 y=42 w=5 h=6 originy=1
+
+animation state="MICRO_U+306D"
+frame x=25 y=42 w=5 h=6 originy=1
+
+animation state="MICRO_U+306E"
+frame x=33 y=42 w=5 h=6 originy=1
+
+animation state="MICRO_U+306F"
+frame x=1 y=48 w=5 h=6 originy=1
+
+animation state="MICRO_U+3072"
+frame x=9 y=48 w=5 h=6 originy=1
+
+animation state="MICRO_U+3075"
+frame x=17 y=48 w=6 h=6 originy=1
+
+animation state="MICRO_U+3078"
+frame x=25 y=48 w=5 h=6 originy=1
+
+animation state="MICRO_U+307B"
+frame x=33 y=48 w=5 h=6 originy=1
+
+animation state="MICRO_U+3070"
+frame x=1 y=54 w=7 h=6 originy=1
+
+animation state="MICRO_U+3073"
+frame x=9 y=54 w=7 h=6 originy=1
+
+animation state="MICRO_U+3076"
+frame x=17 y=54 w=7 h=6 originy=1
+
+animation state="MICRO_U+3079"
+frame x=25 y=54 w=7 h=6 originy=1
+
+animation state="MICRO_U+307C"
+frame x=33 y=54 w=7 h=6 originy=1
+
+animation state="MICRO_U+3071"
+frame x=1 y=60 w=7 h=6 originy=1
+
+animation state="MICRO_U+3074"
+frame x=9 y=60 w=7 h=6 originy=1
+
+animation state="MICRO_U+3077"
+frame x=17 y=60 w=7 h=6 originy=1
+
+animation state="MICRO_U+307A"
+frame x=25 y=60 w=7 h=6 originy=1
+
+animation state="MICRO_U+307D"
+frame x=33 y=60 w=7 h=6 originy=1
+
+animation state="MICRO_U+307E"
+frame x=1 y=66 w=5 h=6 originy=1
+
+animation state="MICRO_U+307F"
+frame x=9 y=66 w=6 h=6 originy=1
+
+animation state="MICRO_U+3080"
+frame x=17 y=66 w=5 h=6 originy=1
+
+animation state="MICRO_U+3081"
+frame x=25 y=66 w=5 h=6 originy=1
+
+animation state="MICRO_U+3082"
+frame x=33 y=66 w=5 h=6 originy=1
+
+animation state="MICRO_U+3084"
+frame x=1 y=72 w=5 h=6 originy=1
+
+animation state="MICRO_U+3086"
+frame x=9 y=72 w=5 h=6 originy=1
+
+animation state="MICRO_U+3088"
+frame x=17 y=72 w=5 h=6 originy=1
+
+animation state="MICRO_U+3089"
+frame x=1 y=78 w=5 h=6 originy=1
+
+animation state="MICRO_U+308A"
+frame x=9 y=78 w=5 h=6 originy=1
+
+animation state="MICRO_U+308B"
+frame x=17 y=78 w=5 h=6 originy=1
+
+animation state="MICRO_U+308C"
+frame x=25 y=78 w=6 h=6 originy=1
+
+animation state="MICRO_U+308D"
+frame x=33 y=78 w=5 h=6 originy=1
+
+animation state="MICRO_U+308F"
+frame x=1 y=84 w=5 h=6 originy=1
+
+animation state="MICRO_U+3092"
+frame x=9 y=84 w=5 h=6 originy=1
+
+animation state="MICRO_U+3093"
+frame x=17 y=84 w=5 h=6 originy=1
+
+animation state="MICRO_U+3094"
+frame x=25 y=84 w=5 h=6 originy=1
