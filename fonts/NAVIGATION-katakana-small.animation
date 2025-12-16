@@ -1,0 +1,26 @@
+animation state="NAVIGATION_U+30A1"
+frame x=1 y=1 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30A3"
+frame x=8 y=1 w=4 h=9 originy=2
+
+animation state="NAVIGATION_U+30A5"
+frame x=15 y=1 w=4 h=9 originy=2
+
+animation state="NAVIGATION_U+30A7"
+frame x=22 y=1 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30A9"
+frame x=29 y=1 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30C3"
+frame x=1 y=11 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30E3"
+frame x=1 y=21 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30E5"
+frame x=8 y=21 w=4 h=9 originy=2
+
+animation state="NAVIGATION_U+30E7"
+frame x=15 y=21 w=4 h=9 originy=2

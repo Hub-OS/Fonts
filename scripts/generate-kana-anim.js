@@ -49,6 +49,7 @@ const fonts = [
   {
     name: "THICK",
     xStart: 1,
+    yStart: 0,
     xStride: 8,
     yStride: 12,
     frameAttributes: "w=7 h=12 originy=1",
@@ -56,6 +57,7 @@ const fonts = [
   {
     name: "THIN",
     xStart: 1,
+    yStart: 0,
     xStride: 8,
     yStride: 13,
     frameAttributes: "w=7 h=13 originy=1",
@@ -63,6 +65,7 @@ const fonts = [
   {
     name: "MICRO",
     xStart: 1,
+    yStart: 0,
     xStride: 8,
     yStride: 6,
     frameAttributes: "w=5 h=6 originy=1",
@@ -84,10 +87,25 @@ const fonts = [
       ["w=4 h=6 originy=1", "ゥォュョ"],
     ],
   },
+  {
+    name: "NAVIGATION",
+    xStart: 1,
+    yStart: 1,
+    xStride: 7,
+    yStride: 10,
+    frameAttributes: "w=5 h=9 originy=1",
+    frameAttributeMap: [
+      // katakana
+      ["w=4 h=9 originy=2", "エ"],
+      ["w=6 h=9 originy=2", "オ カ ガ サ ザ タ ダ ホ ボ パピプペポ"],
+      // katakana-small
+      ["w=4 h=9 originy=2", "ィゥュョ"],
+    ],
+  },
 ];
 
 for (const font of fonts) {
-  const { xStart, xStride, yStride } = font;
+  const { xStart, yStart, xStride, yStride } = font;
 
   // invert frame attribute map for faster lookup
   const frameAttributeMap = {};
@@ -105,16 +123,18 @@ for (const font of fonts) {
     const sheetLayout = sheetLayouts[sheetSuffix];
 
     const content = sheetLayout
-      .flatMap((line, y) =>
-        line.split("").map((grapheme, x) => {
+      .flatMap((line, row) =>
+        line.split("").map((grapheme, col) => {
           const codePoint = grapheme.codePointAt(0);
           const codePointHex = codePoint.toString(16).toUpperCase();
 
           const attrs = frameAttributeMap[grapheme] ?? font.frameAttributes;
+          const x = xStart + col * xStride;
+          const y = yStart + row * yStride;
 
           return [
             `animation state="${font.name}_U+${codePointHex}"`,
-            `frame x=${xStart + x * xStride} y=${y * yStride} ${attrs}`,
+            `frame x=${x} y=${y} ${attrs}`,
           ].join("\n");
         })
       )

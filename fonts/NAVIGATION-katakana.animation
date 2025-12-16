@@ -1,0 +1,215 @@
+animation state="NAVIGATION_U+30A2"
+frame x=1 y=1 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30A4"
+frame x=8 y=1 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30A6"
+frame x=15 y=1 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30A8"
+frame x=22 y=1 w=4 h=9 originy=2
+
+animation state="NAVIGATION_U+30AA"
+frame x=29 y=1 w=6 h=9 originy=2
+
+animation state="NAVIGATION_U+30AB"
+frame x=1 y=11 w=6 h=9 originy=2
+
+animation state="NAVIGATION_U+30AD"
+frame x=8 y=11 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30AF"
+frame x=15 y=11 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30B1"
+frame x=22 y=11 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30B3"
+frame x=29 y=11 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30AC"
+frame x=1 y=21 w=6 h=9 originy=2
+
+animation state="NAVIGATION_U+30AE"
+frame x=8 y=21 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30B0"
+frame x=15 y=21 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30B2"
+frame x=22 y=21 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30B4"
+frame x=29 y=21 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30B5"
+frame x=1 y=31 w=6 h=9 originy=2
+
+animation state="NAVIGATION_U+30B7"
+frame x=8 y=31 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30B9"
+frame x=15 y=31 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30BB"
+frame x=22 y=31 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30BD"
+frame x=29 y=31 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30B6"
+frame x=1 y=41 w=6 h=9 originy=2
+
+animation state="NAVIGATION_U+30B8"
+frame x=8 y=41 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30BA"
+frame x=15 y=41 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30BC"
+frame x=22 y=41 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30BE"
+frame x=29 y=41 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30BF"
+frame x=1 y=51 w=6 h=9 originy=2
+
+animation state="NAVIGATION_U+30C1"
+frame x=8 y=51 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30C4"
+frame x=15 y=51 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30C6"
+frame x=22 y=51 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30C8"
+frame x=29 y=51 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30C0"
+frame x=1 y=61 w=6 h=9 originy=2
+
+animation state="NAVIGATION_U+30C2"
+frame x=8 y=61 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30C5"
+frame x=15 y=61 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30C7"
+frame x=22 y=61 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30C9"
+frame x=29 y=61 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30CA"
+frame x=1 y=71 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30CB"
+frame x=8 y=71 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30CC"
+frame x=15 y=71 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30CD"
+frame x=22 y=71 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30CE"
+frame x=29 y=71 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30CF"
+frame x=1 y=81 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30D2"
+frame x=8 y=81 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30D5"
+frame x=15 y=81 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30D8"
+frame x=22 y=81 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30DB"
+frame x=29 y=81 w=6 h=9 originy=2
+
+animation state="NAVIGATION_U+30D0"
+frame x=1 y=91 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30D3"
+frame x=8 y=91 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30D6"
+frame x=15 y=91 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30D9"
+frame x=22 y=91 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30DC"
+frame x=29 y=91 w=6 h=9 originy=2
+
+animation state="NAVIGATION_U+30D1"
+frame x=1 y=101 w=6 h=9 originy=2
+
+animation state="NAVIGATION_U+30D4"
+frame x=8 y=101 w=6 h=9 originy=2
+
+animation state="NAVIGATION_U+30D7"
+frame x=15 y=101 w=6 h=9 originy=2
+
+animation state="NAVIGATION_U+30DA"
+frame x=22 y=101 w=6 h=9 originy=2
+
+animation state="NAVIGATION_U+30DD"
+frame x=29 y=101 w=6 h=9 originy=2
+
+animation state="NAVIGATION_U+30DE"
+frame x=1 y=111 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30DF"
+frame x=8 y=111 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30E0"
+frame x=15 y=111 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30E1"
+frame x=22 y=111 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30E2"
+frame x=29 y=111 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30E4"
+frame x=1 y=121 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30E6"
+frame x=8 y=121 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30E8"
+frame x=15 y=121 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30E9"
+frame x=1 y=131 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30EA"
+frame x=8 y=131 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30EB"
+frame x=15 y=131 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30EC"
+frame x=22 y=131 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30ED"
+frame x=29 y=131 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30EF"
+frame x=1 y=141 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30F2"
+frame x=8 y=141 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30F4"
+frame x=15 y=141 w=5 h=9 originy=1
+
+animation state="NAVIGATION_U+30FC"
+frame x=22 y=141 w=5 h=9 originy=1
