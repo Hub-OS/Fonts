@@ -1,4 +1,8 @@
-# Hub-OS Fonts
+# Hub OS Fonts
+
+This repo contains `.png` and `.animation` files used to generate fonts assets in Hub OS.
+
+Use the [Animation File Merger](https://hub-os.github.io/Animation-File-Merger/) to create a `fonts.png` and `fonts.animation` usable by the project.
 
 ## Font Sources
 
@@ -19,7 +23,3 @@
 - MENU_TITLE (BN6FontSmExt)
 - CONTEXT (BN6FontTinyExt)
 - CODE (BN6FontTinyVar)
-
-## Generating files usable by Hub-OS
-
-[Animation File Merger](https://hub-os.github.io/Animation-File-Merger/)
