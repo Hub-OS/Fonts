@@ -28,9 +28,6 @@ frame x="19" y="13" w="6" h="10"
 animation state="THICK_U+00FA"
 frame x="26" y="13" w="6" h="10"
 
-animation state="THICK_U+00FC"
-frame x="49" y="13" w="6" h="10"
-
 animation state="THICK_U+00C4"
 frame x="35" y="2" w="6" h="10"
 
