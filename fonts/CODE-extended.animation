@@ -1,0 +1,56 @@
+animation state="CODE_U+00C1"
+frame x=1 y=1 w=6 h=8 originy=3
+
+animation state="CODE_U+00C9"
+frame x=8 y=1 w=6 h=8 originy=3
+
+animation state="CODE_U+00CD"
+frame x=15 y=1 w=3 h=8 originy=3
+
+animation state="CODE_U+00D3"
+frame x=19 y=1 w=6 h=8 originy=3
+
+animation state="CODE_U+00DA"
+frame x=26 y=1 w=6 h=8 originy=3
+
+animation state="CODE_U+00C4"
+frame x=35 y=1 w=6 h=8 originy=3
+
+animation state="CODE_U+00D6"
+frame x=42 y=1 w=6 h=8 originy=3
+
+animation state="CODE_U+00DC"
+frame x=49 y=1 w=6 h=8 originy=3
+
+animation state="CODE_U+00C2"
+frame x=1 y=10 w=6 h=8 originy=3
+
+animation state="CODE_U+00CA"
+frame x=8 y=10 w=6 h=8 originy=3
+
+animation state="CODE_U+00CE"
+frame x=15 y=10 w=3 h=8 originy=3
+
+animation state="CODE_U+00D4"
+frame x=19 y=10 w=6 h=8 originy=3
+
+animation state="CODE_U+00DB"
+frame x=26 y=10 w=6 h=8 originy=3
+
+animation state="CODE_U+00C3"
+frame x=35 y=10 w=6 h=8 originy=3
+
+animation state="CODE_U+1EBC"
+frame x=42 y=10 w=6 h=8 originy=3
+
+animation state="CODE_U+00D5"
+frame x=49 y=10 w=6 h=8 originy=3
+
+animation state="CODE_U+00C0"
+frame x=58 y=1 w=6 h=8 originy=3
+
+animation state="CODE_U+00C7"
+frame x=1 y=22 w=6 h=7
+
+animation state="CODE_U+00D1"
+frame x=8 y=19 w=6 h=8 originy=3
