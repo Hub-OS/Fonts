@@ -213,3 +213,6 @@ frame x=17 y=182 w=7 h=13 originy=1
 
 animation state="THIN_U+30FC"
 frame x=25 y=182 w=7 h=13 originy=1
+
+animation state="THIN_U+30F3"
+frame x=1 y=195 w=7 h=13 originy=1
