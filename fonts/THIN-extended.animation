@@ -111,3 +111,6 @@ frame x="16" y="54" w="7" h="12"
 
 animation state="THIN_U+00D1"
 frame x="24" y="54" w="7" h="12"
+
+animation state="THIN_U+00A1"
+frame x="66" y="53" w="5" h="12"
