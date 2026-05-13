@@ -113,4 +113,7 @@ animation state="THICK_U+00F1"
 frame x="22" y="48" w="6" h="10"
 
 animation state="THICK_U+00A1"
-frame x="62" y="48" w="2" h="10"
+frame x="55" y="48" w="2" h="10"
+
+animation state="THICK_U+00BF"
+frame x="58" y="48" w="6" h="10"
